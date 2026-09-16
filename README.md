@@ -1,53 +1,107 @@
+<div align="center">
+
 # Daniel Carvalho
 
-**Full Stack Developer | C# • .NET • TypeScript • SQL**
+### Full Stack Developer
 
-Based in Portugal. Focused on developing modern, maintainable and scalable web applications, with an emphasis on backend development, REST APIs and database-driven systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%23+%E2%80%A2+.NET+%E2%80%A2+TypeScript+%E2%80%A2+SQL;Building+modern+web+applications;Backend+%E2%80%A2+REST+APIs+%E2%80%A2+Full+Stack" />
+
+<br>
+
+<a href="mailto:danbeni164@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF">
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/PORTUGAL-161B22?style=for-the-badge&logo=googlemaps&logoColor=58A6FF">
+
+<br><br>
+
+Full Stack Developer focused on building **modern web applications**,  
+**REST APIs** and reliable backend systems.
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
 
 ## Tech Stack
 
-**Backend**  
-C# · ASP.NET Core · Entity Framework Core · REST APIs
+<br>
 
-**Frontend**  
-TypeScript · JavaScript · HTML · CSS
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css&theme=dark">
 
-**Database**  
-SQL · SQL Server
+<br><br>
 
-**Tools**  
-Git · GitHub · Visual Studio · VS Code · Postman
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark">
 
-## Currently Working On
+<br><br>
 
-Building full-stack applications with a focus on RESTful APIs, authentication and authorization, relational databases and frontend/backend integration.
+`ASP.NET Core` &nbsp; • &nbsp;
+`Entity Framework Core` &nbsp; • &nbsp;
+`SQL Server` &nbsp; • &nbsp;
+`JWT` &nbsp; • &nbsp;
+`REST APIs`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
 
 ## Featured Project
 
 ### Project Management System
 
-Full-stack web application for managing projects, users and activities.
+**Full Stack Web Application**
 
-**Technologies:** C# · ASP.NET Core · TypeScript · SQL · JWT
+Application designed for managing projects, users and activities  
+through a structured and secure architecture.
 
+<br>
 
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=58A6FF">
 
-## Contact
+<br><br>
 
-Portugal  
-Email: **danbeni164@gmail.com**
+`Authentication` • `User Management` • `Project Management` • `REST API`
 
-<!--
-**DanielCarvalho-devs/DanielCarvalho-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+## Let's Connect
+
+Building software with a focus on **clean architecture,  
+maintainability and practical solutions.**
+
+<br>
+
+<a href="mailto:danbeni164@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT_ME-danbeni164%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF">
+</a>
+
+<br><br>
+
+**Daniel Carvalho**  
+`FULL STACK DEVELOPER`
+
+Portugal
+
+<br>
+
+<sub>C# • .NET • TypeScript • SQL • REST APIs</sub>
+
+</div>
