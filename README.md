@@ -2,210 +2,291 @@
 
 <img src="./assets/daniel-gojo-banner.png" width="100%" alt="Daniel Carvalho — Full Stack Developer">
 
-<br>
+<br><br>
+
+### `BUILD / SOLVE / EVOLVE`
 
 <sub>
-  <b>FULL STACK DEVELOPMENT</b> &nbsp; / &nbsp;
-  BACKEND &nbsp; / &nbsp;
-  REST APIs &nbsp; / &nbsp;
-  WEB APPLICATIONS
+FULL STACK DEVELOPER &nbsp; // &nbsp; PORTUGAL
 </sub>
 
+<br><br>
+
+Building modern web applications with focus on  
+**clean architecture, reliable APIs and intuitive interfaces.**
+
+<br><br>
+
+<a href="mailto:danbeni164@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8">
+</a>
+&nbsp;
+<a href="https://github.com/DanielCarvalho-devs">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8">
+</a>
+
+<br><br>
+
 </div>
-
-<br>
-
----
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## `01 / DEVELOPER`
-
-I build **full stack web applications** with a strong focus on backend development, system structure and maintainability.
-
-My work is centered around **C# and .NET**, connecting reliable APIs, databases and modern web interfaces.
-
-```txt
-> build systems
-> solve problems
-> evolve continuously
-```
-
-</td>
-
-<td width="45%" valign="top">
-
-```text
-DANIEL.CARVALHO
-
-ROLE        Full Stack Developer
-FOCUS       Backend / Web
-LOCATION    Portugal
-
-STATUS      Building
-MODE        Always learning
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-## `02 / ARSENAL`
+<br>
+
+## `TECH STACK`
+
+<sub>TOOLS & TECHNOLOGIES</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=38BDF8">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-161B22?style=flat-square&logo=dotnet&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/EF_Core-161B22?style=flat-square&logo=dotnet&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/REST_API-161B22?style=flat-square&logo=swagger&logoColor=38BDF8">
+
+<br><br>
+
+<sub>
+BACKEND &nbsp; ◇ &nbsp; FRONTEND &nbsp; ◇ &nbsp; DATABASE &nbsp; ◇ &nbsp; APIs
+</sub>
+
+<br><br>
+
+</div>
+
+---
+
+<div align="center">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css&theme=dark" />
+## `SELECTED PROJECT`
+
+<sub>FEATURED BUILD</sub>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" />
+# Project Management System
+
+### Full Stack Web Application
+
+<br>
+
+A web platform designed to centralize the management of  
+**projects, tasks, users, documents and activity history.**
 
 <br><br>
 
+`C#`
+&nbsp;
 `ASP.NET Core`
-&nbsp; • &nbsp;
-`Entity Framework Core`
-&nbsp; • &nbsp;
+&nbsp;
+`React`
+&nbsp;
+`TypeScript`
+&nbsp;
 `SQL Server`
-&nbsp; • &nbsp;
-`JWT`
-&nbsp; • &nbsp;
-`REST APIs`
 
-<br><br>
+<br><br><br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### `◈`
+
+**AUTHENTICATION**
+
+Secure access  
+with JWT
+
+</td>
+
+<td align="center" width="33%">
+
+### `◇`
+
+**PROJECTS**
+
+Project organization  
+and management
+
+</td>
+
+<td align="center" width="33%">
+
+### `✓`
+
+**TASKS**
+
+Task tracking  
+and workflow
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### `◉`
+
+**USERS**
+
+User accounts  
+and access
+
+</td>
+
+<td align="center" width="33%">
+
+### `▱`
+
+**DOCUMENTS**
+
+Document  
+management
+
+</td>
+
+<td align="center" width="33%">
+
+### `↻`
+
+**HISTORY**
+
+Activity  
+tracking
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### `PROJECT SHOWCASE // COMING SOON`
 
 <sub>
-C# &nbsp; / &nbsp;
-.NET &nbsp; / &nbsp;
-REACT &nbsp; / &nbsp;
-TYPESCRIPT &nbsp; / &nbsp;
-SQL
+Repository, documentation and application screenshots will be added here.
 </sub>
+
+<br><br>
 
 </div>
 
 ---
 
-## `03 / SELECTED WORK`
-
-<table>
-<tr>
-<td>
-
-### PROJECT MANAGEMENT SYSTEM
-
-**Full Stack Web Application**
-
-A project management platform designed to organize **projects, users, tasks and activities** through a structured and secure architecture.
-
-`C#` `ASP.NET Core` `Entity Framework Core` `TypeScript` `SQL Server` `JWT`
+<div align="center">
 
 <br>
 
-**CORE SYSTEMS**
+## `WHAT I BUILD`
 
-```text
-01  Authentication
-02  User Management
-03  Project Management
-04  Task Management
-05  REST API
-06  Authorization
-```
+<br>
 
-> Repository documentation and live project showcase coming next.
+### Backend
 
-</td>
-</tr>
-</table>
+`C#` &nbsp; `ASP.NET Core` &nbsp; `REST APIs` &nbsp; `JWT`
 
----
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Frontend
 
-## `04 / CURRENT`
+`React` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `HTML / CSS`
 
-```text
-CURRENT MISSION
+<br>
 
-[■■■■■■■■□□]  BUILDING
+### Data
 
-Project Management System
+`SQL Server` &nbsp; `Entity Framework Core`
 
-→ Backend architecture
-→ REST API
-→ Authentication
-→ Frontend integration
-→ Database
-```
+<br><br>
 
-</td>
-
-<td width="50%" valign="top">
-
-## `05 / PRINCIPLES`
-
-```text
-BUILD    clean solutions
-SOLVE    real problems
-EVOLVE   every iteration
-
-────────────────────────
-
-CODE IS NOT JUST SYNTAX.
-IT IS STRUCTURE,
-LOGIC AND PERSPECTIVE.
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-### `// CONNECTION`
+<br>
+
+## `CURRENTLY`
+
+<br>
+
+◇ Building and improving my **Project Management System**
+
+◇ Developing cleaner **REST APIs**
+
+◇ Improving **backend architecture**
+
+◇ Connecting backend systems with modern **web interfaces**
+
+<br><br>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+## `CONNECT`
 
 <br>
 
 <a href="mailto:danbeni164@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-DANIEL_CARVALHO-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/danbeni164%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8">
 </a>
+
+&nbsp;
 
 <a href="https://github.com/DanielCarvalho-devs">
-  <img src="https://img.shields.io/badge/GITHUB-DANIELCARVALHO--DEVS-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8">
+<img src="https://img.shields.io/badge/DanielCarvalho--devs-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8">
 </a>
 
-<br><br>
+<br><br><br>
 
-```text
-DANIEL // CARVALHO
-FULL STACK DEVELOPER
+### DANIEL CARVALHO
 
-PORTUGAL
-```
+`FULL STACK DEVELOPER`
+
+<br>
 
 <sub>
-C# • .NET • TypeScript • React • SQL • REST APIs
+C# &nbsp; • &nbsp;
+.NET &nbsp; • &nbsp;
+REACT &nbsp; • &nbsp;
+TYPESCRIPT &nbsp; • &nbsp;
+SQL
 </sub>
 
 <br><br>
 
-<b>BUILD / SOLVE / EVOLVE</b>
+---
 
-<br><br>
+<br>
 
-<sub>
-「 LIMITLESS DEVELOPMENT 」
-</sub>
+<sub>無量空処</sub>
+
+### `BUILD / SOLVE / EVOLVE`
+
+<sub>PORTUGAL // 2026</sub>
+
+<br>
 
 </div>
